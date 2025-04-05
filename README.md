@@ -6,6 +6,18 @@
 
 ---
 
+## 📖 Installation Steps
+
+Join our Channel for Run the Script
+
+<div align="center">
+  <a href="https://t.me/airdropseeker_official" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="Telegram Logo" />
+  </a>
+</div>
+
+---
+
 ## 🚀 About the Bot
 
 Blum Bot is designed to automate various tasks in **Blum**, helping you:
@@ -91,17 +103,6 @@ Additionally, Blum Bot offers advanced features such as:
 | `delay_loop`           | Delay before the next loop iteration (in milliseconds)                              | `3000`      |
 
 ---
-
-## 📖 Installation Steps
-
-Join our Channel for Run the Script
-
-<div align="center">
-  <a href="https://t.me/airdropseeker_official" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="Telegram Logo" />
-  </a>
-</div>
-
 
 ### 🔹 Want Free Proxies?
 
