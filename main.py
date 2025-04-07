@@ -44,9 +44,9 @@ class blum:
     def banner(self) -> None:
         """Displays the banner for the bot."""
         self.log("🎉 Blum Free Bot", Fore.CYAN)
-        self.log("🚀 Created by LIVEXORDS", Fore.CYAN)
-        self.log("👥 Contributors: @Baronzs103, @bioganteng14", Fore.CYAN)
-        self.log("📢 Channel: t.me/livexordsscript\n", Fore.CYAN)
+        self.log("🚀 Created by DATA", Fore.CYAN)
+        self.log("👥 Contributors: @Kaskus", Fore.CYAN)
+        self.log("📢 Channel: t.me/airdropseeker_official\n", Fore.CYAN)
 
     def log(self, message, color=Fore.RESET):
         safe_message = message.encode("utf-8", "backslashreplace").decode("utf-8")
