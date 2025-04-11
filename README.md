@@ -8,7 +8,7 @@
 
 ## 📖 Installation Steps
 
-Join our Channel for Run the Script
+Join our Channel for Run the Script, gas
 
 <div align="center">
   <a href="https://t.me/airdropseeker_official" target="_blank">
