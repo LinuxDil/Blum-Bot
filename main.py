@@ -343,7 +343,7 @@ class blum:
             self.log(f"❌ Error processing daily reward info: {e}", Fore.RED)
             return
 
-        # Jika claim_status bernilai "unavailable", jangan klaim daily reward
+        # Jika claim_status bernilai "unavailable", jangan klaim daily reward!
         if isinstance(claim_status, str) and claim_status.lower() == "unavailable":
             self.log("🚫 Daily reward claim is unavailable. Skipping claim.", Fore.YELLOW)
             return
